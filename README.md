@@ -34,7 +34,7 @@
 <body>
     <div class="card my-2">
         <div class="card-header bg-dark text-white" style="display: flex;">
-            <div class="col-1"><img src="dribbble.png" alt="" width="70px"></div>
+            <div class="col-1"><img src="dribbble.jpeg" alt="" width="70px"></div>
             <div class="col-9 icon-container">
                 <a href="">Shots</a>
                 <a href="">Designer</a>
@@ -62,7 +62,7 @@
         </div>
         <div class="my-3" style="display: flex;">
             <div class="col-3 mx-2">
-                <img src="movies.jpg" alt="" width="300px"><br>
+                <img src="movies.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Movies 
                     <i class="bi bi-eye"></i> 
@@ -71,7 +71,7 @@
                 </center>
             </div>
             <div class="col-3 mx-2">
-                <img src="cars.jpg" alt="" width="300px"><br>
+                <img src="cars.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Cars 
                     <i class="bi bi-eye"></i> 
@@ -80,7 +80,7 @@
                 </center>
             </div>
             <div class="col-3 mx-2">
-                <img src="temples.jpg" alt="" width="300px"><br>
+                <img src="temples.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Temples 
                     <i class="bi bi-eye"></i> 
@@ -89,7 +89,7 @@
                 </center>
             </div>
             <div class="col-3 mx-2">
-                <img src="travel.jpg" alt="" width="300px"><br>
+                <img src="travel.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Travels 
                     <i class="bi bi-eye"></i> 
@@ -101,7 +101,7 @@
 
         <div class="my-3" style="display: flex;">
             <div class="col-3 mx-2">
-                <img src="mobile.jpg" alt="" width="300px"><br>
+                <img src="mobile.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Products 
                     <i class="bi bi-eye"></i> 
@@ -110,7 +110,7 @@
                 </center>
             </div>
             <div class="col-3 mx-2">
-                <img src="promo.jpg" alt="" width="300px"><br>
+                <img src="promo.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Promotions 
                     <i class="bi bi-eye"></i> 
@@ -119,7 +119,7 @@
                 </center>
             </div>
             <div class="col-3 mx-2">
-                <img src="games.jpg" alt="" width="300px"><br>
+                <img src="games.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Games 
                     <i class="bi bi-eye"></i> 
@@ -128,7 +128,7 @@
                 </center>
             </div>
             <div class="col-3 mx-2">
-                <img src="sports.jpg" alt="" width="300px"><br>
+                <img src="sports.jpeg" alt="" width="300px"><br>
                 <center>
                     <i class="bi bi-link-45deg"></i>Sports 
                     <i class="bi bi-eye"></i> 
